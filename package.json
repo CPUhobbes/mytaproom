@@ -1,0 +1,24 @@
+{
+  "name": "mytaproom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPUhobbes/mytaproom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPUhobbes/mytaproom/issues"
+  },
+  "homepage": "https://github.com/CPUhobbes/mytaproom#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2"
+  }
+}
